@@ -1,0 +1,10 @@
+# Виртуальное окружение Python
+venv/
+
+# Конкретная модель
+model/models/Qwen3-0.6B/
+
+# Файлы в папке data/
+data/products_main.parquet
+data/reviews.parquet
+data/specs.parquet
